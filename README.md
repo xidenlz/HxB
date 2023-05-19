@@ -1,4 +1,4 @@
-# HxB
+
 ![Alt Text](https://github.com/Mes2d/HxB/blob/main/HexBusterChildPhoto.png)
 Before anything i want to say Buster is a basic tool that can be used to extract strings from hexadecimal data. It is currently limited in its capabilities, but it will be updated in the future to include more features.
 # Features⚡:
