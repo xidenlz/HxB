@@ -1,0 +1,15 @@
+C:\Users\BzMus\source\repos\HxB\HxB\bin\Debug\net6.0\HxB.exe
+C:\Users\BzMus\source\repos\HxB\HxB\bin\Debug\net6.0\HxB.deps.json
+C:\Users\BzMus\source\repos\HxB\HxB\bin\Debug\net6.0\HxB.runtimeconfig.json
+C:\Users\BzMus\source\repos\HxB\HxB\bin\Debug\net6.0\HxB.dll
+C:\Users\BzMus\source\repos\HxB\HxB\bin\Debug\net6.0\HxB.pdb
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.csproj.AssemblyReference.cache
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.AssemblyInfoInputs.cache
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.AssemblyInfo.cs
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.csproj.CoreCompileInputs.cache
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.dll
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\refint\HxB.dll
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.pdb
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\HxB.genruntimeconfig.cache
+C:\Users\BzMus\source\repos\HxB\HxB\obj\Debug\net6.0\ref\HxB.dll
