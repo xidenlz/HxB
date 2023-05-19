@@ -1,6 +1,6 @@
 
 ![Alt Text](https://github.com/Mes2d/HxB/blob/main/HexBusterChildPhoto.png)
-Before anything i want to say Buster is a basic tool that can be used to extract strings from hexadecimal data. It is currently limited in its capabilities, but it will be updated in the future to include more features.
+Before anything i want to say HexBuster is a basic tool that can be used to extract strings from hexadecimal data. It is currently limited in its capabilities, but it will be updated in the future to include more features.
 # Features⚡:
 - The ability to dump strings from hexadecimal data 👜
 - The ability to read and write data in hexadecimal format 📖
