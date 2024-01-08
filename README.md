@@ -12,3 +12,4 @@ Hex Buster uses a simple algorithm to dump strings from hexadecimal data. The al
 <a href="https://twitter.com/xdenlz"><img src="https://user-images.githubusercontent.com/106308342/208211675-c2459c4d-0420-4d2c-8b21-31f39b9615ee.png" alt="Twitter logo" width="50"></a>
 This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/HxB/blob/main/HxB/LICENSE.txt).
 
+# Moved to archive, no future updates
